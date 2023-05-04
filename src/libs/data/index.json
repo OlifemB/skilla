@@ -1,0 +1,2051 @@
+[
+    {
+        "id": 5862105,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 18:27:46",
+        "date_notime": "2022-12-30",
+        "time": 0,
+        "from_number": "793**33**",
+        "from_extension": "",
+        "to_number": "sip**r_**",
+        "to_extension": "671",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "https://previews.customer.envatousercontent.com/files/259160187/preview.mp3",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Татьяна",
+                "person_surname": "Михалкович",
+                "person_mango_phone": "671",
+                "duration": "8",
+                "disconnect_reason": "Вызов завершен вызывающим абонентом"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 4730,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5861815,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 15:49:44",
+        "date_notime": "2022-12-30",
+        "time": 0,
+        "from_number": "790**84**",
+        "from_extension": "",
+        "to_number": "sip**r_**",
+        "to_extension": "671",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Татьяна",
+                "person_surname": "Михалкович",
+                "person_mango_phone": "671",
+                "duration": "10",
+                "disconnect_reason": "Вызов завершен вызывающим абонентом"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 4730,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5861217,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 12:43:00",
+        "date_notime": "2022-12-30",
+        "time": 24,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "798**66**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "https://previews.customer.envatousercontent.com/files/394976773/preview.mp3",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Николай",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 2731,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5861216,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 12:42:39",
+        "date_notime": "2022-12-30",
+        "time": 8,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "798**66**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Николай",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 2731,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5861063,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 12:06:26",
+        "date_notime": "2022-12-30",
+        "time": 54,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "798**66**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Николай",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 2731,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5861056,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 12:06:05",
+        "date_notime": "2022-12-30",
+        "time": 0,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "798**66**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Николай",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 2731,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5861055,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 12:05:52",
+        "date_notime": "2022-12-30",
+        "time": 2,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "798**66**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Николай",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 2731,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5861054,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 12:04:45",
+        "date_notime": "2022-12-30",
+        "time": 0,
+        "from_number": "798**66**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            },
+            {
+                "person_name": "Кристина",
+                "person_surname": "Мартынюк",
+                "person_mango_phone": "105",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "Николай",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 3487,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860882,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 11:25:55",
+        "date_notime": "2022-12-30",
+        "time": 35,
+        "from_number": "781**03**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 3487,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860779,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 10:52:32",
+        "date_notime": "2022-12-30",
+        "time": 0,
+        "from_number": "781**03**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            },
+            {
+                "person_name": "Кристина",
+                "person_surname": "Мартынюк",
+                "person_mango_phone": "105",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 3487,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860718,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 10:34:11",
+        "date_notime": "2022-12-30",
+        "time": 64,
+        "from_number": "795**70**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "749**20**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "Yandex",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 3487,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860689,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 10:24:51",
+        "date_notime": "2022-12-30",
+        "time": 12,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "796**12**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Виталий",
+        "contact_company": "ООО \"ВИНЛАБ-РЕГИОН\"",
+        "person_id": 3487,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860661,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 10:12:54",
+        "date_notime": "2022-12-30",
+        "time": 26,
+        "from_number": "796**12**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "749**20**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "Yandex",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Виталий",
+        "contact_company": "ООО \"ВИНЛАБ-РЕГИОН\"",
+        "person_id": 3487,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860563,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 09:34:48",
+        "date_notime": "2022-12-30",
+        "time": 26,
+        "from_number": "781**49**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 3487,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860479,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 09:00:02",
+        "date_notime": "2022-12-30",
+        "time": 76,
+        "from_number": "749**02**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "749**20**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "Yandex",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 3487,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860399,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 08:30:36",
+        "date_notime": "2022-12-30",
+        "time": 40,
+        "from_number": "793**79**",
+        "from_extension": "",
+        "to_number": "fmc**91**",
+        "to_extension": "101",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5860395,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-30 08:30:07",
+        "date_notime": "2022-12-30",
+        "time": 0,
+        "from_number": "793**79**",
+        "from_extension": "",
+        "to_number": "fmc**91**",
+        "to_extension": "101",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5859916,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 18:07:08",
+        "date_notime": "2022-12-29",
+        "time": 0,
+        "from_number": "749**02**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "749**20**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "Yandex",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Кристина",
+                "person_surname": "Мартынюк",
+                "person_mango_phone": "105",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5859639,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 16:50:58",
+        "date_notime": "2022-12-29",
+        "time": 5,
+        "from_number": "790**19**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5859477,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 16:03:24",
+        "date_notime": "2022-12-29",
+        "time": 0,
+        "from_number": "796**74**",
+        "from_extension": "",
+        "to_number": "sip**r_**",
+        "to_extension": "671",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов не получил ответа в течение времени ожидания",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Татьяна",
+                "person_surname": "Михалкович",
+                "person_mango_phone": "671",
+                "duration": "10",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5858852,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 13:40:26",
+        "date_notime": "2022-12-29",
+        "time": 29,
+        "from_number": "796**12**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "Виталий",
+        "contact_company": "ООО \"ВИНЛАБ-РЕГИОН\"",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5858796,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 13:23:14",
+        "date_notime": "2022-12-29",
+        "time": 0,
+        "from_number": "795**59**",
+        "from_extension": "",
+        "to_number": "sip**r_**",
+        "to_extension": "671",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов не получил ответа в течение времени ожидания",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Татьяна",
+                "person_surname": "Михалкович",
+                "person_mango_phone": "671",
+                "duration": "10",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5858751,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 13:08:31",
+        "date_notime": "2022-12-29",
+        "time": 93,
+        "from_number": "796**20**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5858694,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 12:54:33",
+        "date_notime": "2022-12-29",
+        "time": 103,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "796**12**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Виталий",
+        "contact_company": "ООО \"ВИНЛАБ-РЕГИОН\"",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5858532,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 12:22:44",
+        "date_notime": "2022-12-29",
+        "time": 49,
+        "from_number": "796**12**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "749**20**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "Yandex",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Виталий",
+        "contact_company": "ООО \"ВИНЛАБ-РЕГИОН\"",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5858115,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 11:19:12",
+        "date_notime": "2022-12-29",
+        "time": 124,
+        "from_number": "791**00**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5857621,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 09:27:20",
+        "date_notime": "2022-12-29",
+        "time": 53,
+        "from_number": "791**79**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5857498,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-29 08:41:35",
+        "date_notime": "2022-12-29",
+        "time": 0,
+        "from_number": "796**12**",
+        "from_extension": "",
+        "to_number": "fmc**91**",
+        "to_extension": "101",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856736,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 16:51:10",
+        "date_notime": "2022-12-28",
+        "time": 94,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "790**10**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Михаил",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856721,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 16:49:56",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "790**10**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "Михаил",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856717,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 16:47:35",
+        "date_notime": "2022-12-28",
+        "time": 29,
+        "from_number": "796**53**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856707,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 16:46:52",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "790**10**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "Михаил",
+        "contact_company": "ООО \"ВИНЛАБ-ЗАПАД\"",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856716,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 16:45:53",
+        "date_notime": "2022-12-28",
+        "time": 92,
+        "from_number": "781**18**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856663,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 16:38:53",
+        "date_notime": "2022-12-28",
+        "time": 109,
+        "from_number": "796**53**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856510,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 16:01:02",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "790**36**",
+        "from_extension": "",
+        "to_number": "sip**r_**",
+        "to_extension": "671",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов не получил ответа в течение времени ожидания",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Татьяна",
+                "person_surname": "Михалкович",
+                "person_mango_phone": "671",
+                "duration": "10",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856502,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 15:59:55",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "790**36**",
+        "from_extension": "",
+        "to_number": "sip**r_**",
+        "to_extension": "671",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856447,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 15:46:42",
+        "date_notime": "2022-12-28",
+        "time": 20,
+        "from_number": "798**85**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856175,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:59:13",
+        "date_notime": "2022-12-28",
+        "time": 17,
+        "from_number": "sip**10**",
+        "from_extension": "105",
+        "to_number": "796**43**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856064,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:40:24",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "790**84**",
+        "from_extension": "",
+        "to_number": "sip**r_**",
+        "to_extension": "671",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов не получил ответа в течение времени ожидания",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856024,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:33:17",
+        "date_notime": "2022-12-28",
+        "time": 14,
+        "from_number": "796**63**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Кристина",
+                "person_surname": "Мартынюк",
+                "person_mango_phone": "105",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5856006,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:30:41",
+        "date_notime": "2022-12-28",
+        "time": 51,
+        "from_number": "sip**ha**",
+        "from_extension": "103",
+        "to_number": "796**63**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5855992,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:30:13",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "sip**ha**",
+        "from_extension": "103",
+        "to_number": "796**73**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5855913,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:17:22",
+        "date_notime": "2022-12-28",
+        "time": 46,
+        "from_number": "sip**ha**",
+        "from_extension": "103",
+        "to_number": "796**43**",
+        "to_extension": "",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 0,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5855883,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:16:12",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "796**43**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Кристина",
+                "person_surname": "Мартынюк",
+                "person_mango_phone": "105",
+                "duration": "8",
+                "disconnect_reason": "Вызов завершен вызывающим абонентом"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5855874,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:14:34",
+        "date_notime": "2022-12-28",
+        "time": 35,
+        "from_number": "796**43**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "101",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Кристина",
+                "person_surname": "Мартынюк",
+                "person_mango_phone": "105",
+                "duration": "15",
+                "disconnect_reason": "Вызов не получил ответа в течение времени ожидания"
+            },
+            {
+                "person_name": "Ирина",
+                "person_surname": "Кобец",
+                "person_mango_phone": "103",
+                "duration": "0",
+                "disconnect_reason": "Вызываемый номер недоступен"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5855825,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 14:05:56",
+        "date_notime": "2022-12-28",
+        "time": 32,
+        "from_number": "792**00**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "",
+        "results": [],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5855667,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 13:35:54",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "796**30**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [
+            {
+                "person_name": "Кристина",
+                "person_surname": "Мартынюк",
+                "person_mango_phone": "105",
+                "duration": "1",
+                "disconnect_reason": "Вызов завершен вызывающим абонентом"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5855287,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 12:24:38",
+        "date_notime": "2022-12-28",
+        "time": 30,
+        "from_number": "798**37**",
+        "from_extension": "",
+        "to_number": "sip**10**",
+        "to_extension": "105",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "749**20**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "Yandex",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5855248,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 12:15:24",
+        "date_notime": "2022-12-28",
+        "time": 77,
+        "from_number": "795**70**",
+        "from_extension": "",
+        "to_number": "sip**ha**",
+        "to_extension": "103",
+        "is_skilla": 0,
+        "status": "Дозвонился",
+        "record": "MToxMDA2NzYxNToxNDMwMDM3NzExNzow",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [
+            "Скрипт не использован"
+        ],
+        "disconnect_reason": "",
+        "results": [
+            {
+                "type": "is_new",
+                "title": "Новый",
+                "tooltip": ""
+            }
+        ],
+        "stages": [],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    },
+    {
+        "id": 5854842,
+        "partnership_id": "578",
+        "partner_data": {
+            "id": "578",
+            "name": "ООО \"ГРУЗЧИКОВ-СЕРВИС СПБ\"",
+            "phone": "74951205096"
+        },
+        "date": "2022-12-28 11:25:58",
+        "date_notime": "2022-12-28",
+        "time": 0,
+        "from_number": "799**37**",
+        "from_extension": "",
+        "to_number": "sip**r_**",
+        "to_extension": "671",
+        "is_skilla": 0,
+        "status": "Не дозвонился",
+        "record": "",
+        "line_number": "sip**se**",
+        "in_out": 1,
+        "from_site": 0,
+        "source": "",
+        "errors": [],
+        "disconnect_reason": "Вызов завершен вызывающим абонентом",
+        "results": [],
+        "stages": [
+            {
+                "person_name": "Татьяна",
+                "person_surname": "Михалкович",
+                "person_mango_phone": "671",
+                "duration": "10",
+                "disconnect_reason": "Вызов завершен вызывающим абонентом"
+            }
+        ],
+        "abuse": [],
+        "contact_name": "",
+        "contact_company": "",
+        "person_id": 2726,
+        "person_name": "**",
+        "person_surname": "**",
+        "person_avatar": "https://lk.skilla.ru/img/noavatar.jpg"
+    }
+]

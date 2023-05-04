@@ -1,0 +1,46 @@
+
+.th {
+  & > .tr {
+    & > .td {
+      padding: 0 12px;
+      height: 60px;
+      font-weight: 400;
+      font-size: 14px !important;
+      color: #899CB1;
+      border: none;
+
+      &:first-child{
+        padding-left: 40px;
+      }
+
+      &:last-child{
+        padding-right: 40px;
+      }
+    }
+  }
+}
+
+.tb {
+  border: 0;
+  & > .tr {
+    border: 0;
+    transition-duration: .2s;
+    cursor: pointer;
+
+    & > .td {
+      padding: 0 12px;
+      height: 65px;
+
+
+    }
+
+    &:last-child .td {
+      border: 0
+    }
+
+    &:hover{
+      background-color: #F8FAFD;
+    }
+  }
+}
+

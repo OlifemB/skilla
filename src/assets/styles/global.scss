@@ -1,0 +1,24 @@
+@import "fonts";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #F1F4F9;
+  font-family: 'SFProDisplay', sans-serif !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+svg {
+  transition-duration: .25s;
+  cursor: pointer;
+
+  &:focus {
+    outline: none;
+  }
+}
